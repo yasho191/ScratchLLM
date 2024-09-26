@@ -1,6 +1,6 @@
 # LLM Basics
 
-This repository contains the implementation of encoder and decoder modules of the Transformer architecture. The encoder with classifier is utilized for classification tasks, while the decoder is used for language modeling.
+This repository contains the implementation of encoder and decoder modules of the Transformer architecture. The encoder with classifier is utilized for classification tasks, while the decoder is used for language modeling. This project is a part of the SP24 CSE 256 - Statistical NLP course taught at UCSD.
 
 ## Code Structure
 
